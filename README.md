@@ -1,4 +1,4 @@
-Stan code for empirical Green's function analysis of the Kumamoto earthquake, as analysed in Van Houtte and Denolle (2018), JGR: Solid Earth.
+Stan code for empirical Green's function analysis of the Kumamoto earthquake, as analysed in Van Houtte and Denolle (2018), JGR: Solid Earth, doi:10.1002/2017JB014943.
 
 Input:
 - N: number of data points
